@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import messagebox, ttk
 import threading
 
-API_KEY = "AIzaSyALFo-nmWGq_ddLwzwvhgM98nxvaWVygVg"
+API_KEY = "your-API-key"
 BASE_DIR = r"C:\Omkar\Youtube videos\Channel Data CSV"
 CSV_FILE = os.path.join(BASE_DIR, "channel_videos.csv")
 
