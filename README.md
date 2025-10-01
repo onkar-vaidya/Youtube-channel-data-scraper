@@ -1,7 +1,9 @@
-\<div align="center"\>
-\<img src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" alt="Python"\>
-\<img src="[https://img.shields.io/badge/tk-2C2C2C?style=for-the-badge\&logo=tkinter\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/tk-2C2C2C%3Fstyle%3Dfor-the-badge%26logo%3Dtkinter%26logoColor%3Dwhite)" alt="Tkinter"\>
-\</div\>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/tk-2C2C2C?style=for-the-badge&logo=tkinter&logoColor=white" alt="Tkinter">
+  <img src="https://img.shields.io/badge/Pillow-000000?style=for-the-badge&logo=pillow&logoColor=white" alt="Pillow">
+  <img src="https://img.shields.io/badge/rembg-FF4B8B?style=for-the-badge&logo=remove&logoColor=white" alt="rembg">
+</div>
 
 # YouTube Channel Data Scraper
 
